@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "Ana Silva",
+    "email": "ana.silva@example.com",
+    "dataNascimento": "1990-05-15"
+  },
+  {
+    "nome": "Bruno Costa",
+    "email": "bruno.costa_example.com",
+    "dataNascimento": "1985-11-20"
+  },
+  {
+    "nome": "Carla Dias",
+    "email": "carla.dias@example.com",
+    "dataNascimento": "2001-02-10"
+  },
+  {
+    "nome": "Daniel Souza",
+    "email": "daniel_invalido",
+    "dataNascimento": "1998-09-30"
+  }
+]
