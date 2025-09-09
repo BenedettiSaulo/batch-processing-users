@@ -6,7 +6,7 @@ Este projeto foi desenvolvido durante um encontro do grupo de estudos da comunid
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Java 17**
+* **Java 21**
 * **Spring Boot 3**
 * **Spring Batch** - Para o processamento em lote.
 * **Spring Data JPA** - Para a persistência de dados.
